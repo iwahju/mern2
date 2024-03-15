@@ -35,13 +35,13 @@ export FLASK_APP=app.py
 cd ../frontend
 npm I
 
-**Usage**
+## Usage
 To use Virtual Fridge, start both the backend and frontend servers using the following commands:
 
-**Backend**
+## Backend
 flask run
 
-**Frontend**
+## Frontend
 npm start
 
 ## Features
